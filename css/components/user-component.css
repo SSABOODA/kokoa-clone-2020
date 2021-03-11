@@ -42,3 +42,8 @@
   display: block;
   margin-bottom: 10px;
 }
+.exclamation {
+  color: red;
+  border: 1px solid red;
+  border-radius: 50%;
+}
